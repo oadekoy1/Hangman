@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(73, 73, 118, 0.867);
+}
+
+h1, h3 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.reset {
+    text-align: end
+}
+
+.letterWrap {
+    text-align: center;
+    margin: auto;
+}
+
+#underscore {
+    text-align: center;
+    margin: 30px;
+}
